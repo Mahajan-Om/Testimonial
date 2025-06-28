@@ -3,7 +3,7 @@
 A clean, responsive **Testimonial Component** built with **React**.
 Showcases user reviews in an interactive and modern layout — ideal for portfolios, product landing pages, or company websites.
 
-Live Demo 👉 
+Live Demo 👉 https://testimonialll.netlify.app/
 ---
 
 ## 🚀 Features
