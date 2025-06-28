@@ -1,15 +1,25 @@
-🧾 Testimonial Project (React)
-A simple and responsive Testimonial Component built using React. It dynamically displays user reviews/testimonials with smooth navigation, making it perfect for use in modern websites and portfolios.
+# 🌟 Testimonial Project - React
 
-🚀 Features
-Built with React Js
-Dynamic testimonial rendering
-Next/Previous navigation
-Responsive layout for all devices
-Clean and minimal UI
-Lightweight and fast   
+A clean, responsive **Testimonial Component** built with **React**.
+Showcases user reviews in an interactive and modern layout — ideal for portfolios, product landing pages, or company websites.
 
-🛠️ Tech Stack
-React
-Tailwind CSS 
-JavaScript
+Live Demo 👉 
+---
+
+## 🚀 Features
+
+- ✅ Built with React
+- ✅ Interactive Previous/Next buttons
+- ✅ Responsive for all screen sizes
+- ✅ Clean UI and UX
+- ✅ Easy to customize
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **CSS** / Tailwind CSS *(if used)*
+- **JavaScript**
+
+---
